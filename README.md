@@ -31,7 +31,7 @@ Depending on your .csv elements this might take some time. After the process if 
 ## Step - 3
 After all the words are visible in the window. Save the .html file
 ## 
-[![screenshot-2.png](https://i.postimg.cc/QN4xxHVN/screenshot-2.png)](https://postimg.cc/Sj9pgQWH)
+[![screenshot-3.png](https://i.postimg.cc/tCvDy38r/screenshot-3.png)](https://postimg.cc/QH5cJT85)
 ## Step - 4
 After downloading the .html file, open it in a code editor of your choice and then copy this tag and everything in between
 ```html
