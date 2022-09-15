@@ -153,7 +153,7 @@ cd C:\Users\"YOUR USERNAME"\Desktop\English to Bengali dictionary for kindle
 Now in the command prompt, type the path of the kindlegen software that you had downloaded and extracted. Then give a space in-between and then type the name of the .opf file that you have created.
 ##### Example -
 ``` command
-C:\Users\'YOUR USERNAME'\Desktop\English to Bengali dictionary for kindle>C:\Users\08201\Downloads\kindlegen_win32_v2_9\kindlgen dictionary.opf
+C:\Users\'YOUR USERNAME'\Desktop\English to Bengali dictionary for kindle>C:\Users\'YOUR USERNAME'\Downloads\kindlegen_win32_v2_9\kindlgen dictionary.opf
 ```
 [![Screenshot-10.png](https://i.postimg.cc/4xWGgdhh/Screenshot-10.png)](https://postimg.cc/RWJy1vdM)
 
