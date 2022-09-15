@@ -1,5 +1,5 @@
 
-## English to Bengali dictionary for kindle
+# English to Bengali dictionary for kindle
 
 I have a kindle and it's frustating that there are not many english to bengali dictionaries out there. So, I thoght of making my own dictionary.
 Here I am giving every details required for making a dictionary of your own.
