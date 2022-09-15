@@ -1,8 +1,13 @@
 
-# English to Bengali dictionary for kindle
+## English to Bengali dictionary for kindle
 
 I have a kindle and it's frustating that there are not many english to bengali dictionaries out there. So, I thoght of making my own dictionary.
 Here I am giving every details required for making a dictionary of your own.
+
+## Download
+I have already made a dictionary which you can [download](https://github.com/anirban12d/English-to-Bengali-dictionary-for-kindle/raw/main/English%20to%20Bengali%20dictionary%20by%20Anirban%20Das.mobi).
+But if you want to create your own dictionary then the guide below can help you do that.
+
 ## How does it work
 This basically converts a csv file which is in in x, y format into an array and then from the array we create html elements for each item in the array. Then we can collect those elements and use them accordingly.
 ## Step - 1
